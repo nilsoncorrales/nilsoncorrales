@@ -1,4 +1,4 @@
-<h1 align="center">Awesome README Templates</h1>
+<h1 align="center">Nilson Corrales Ramos</h1>
 <p align="center"><i>A collection of awesome readme templates to display on your github profile.</i></p>
 <div align="center">
   <a href="https://github.com/elangosundar/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
