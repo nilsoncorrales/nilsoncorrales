@@ -21,7 +21,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer who currently w
 - 📫 How to reach me **nilsoncorralesramos@gmail.com**
 
 
-### Experiencia de trabaljo
+### Work experience
 In the summary below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>](https://www.spacex.com/)
