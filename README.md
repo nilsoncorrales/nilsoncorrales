@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nilson Corrales Ramos</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 <br>
-I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
+I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Backend and Frontend at Repestock. I'm passionate about sharing knowledge, documentation, web engineering, and others. I create technical content (on my Blog, and YouTube), build useful open-source projects.
 
 - 🔭 I’m currently working on **Repuestock SAC**
 
