@@ -1,8 +1,3 @@
-
-<br>
-<p align="center"><i>Loved the project? Please visit our <a href="https://awesome-github-readme-profile.netlify.app">Website</a></i></p>
-
-
 <h1 align="center">Hi 👋, I'm Nilson Corrales Ramos</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 <br>
