@@ -10,7 +10,7 @@ If you are intersted, will create a PR for to add your `README` profile here.
 
 If you like this Repo, Please click the :star:
 
-List of `awesome README Profile` categories mentioned below
+List of `awesome README Profile` categories mentioned below xd
 
 - 🔭 I’m currently working on **Repuestock SAC**
 
