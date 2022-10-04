@@ -4,13 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nilson Corrales Ramos</h1>
 <h3 align="center">A passionate backend developer from Peru</h3>
 <br>
-This repo aims to collect the all `awesome beautiful READMEs profile` and make your Profile look good & Inspire other's.
-
-If you are intersted, will create a PR for to add your `README` profile here.
-
-If you like this Repo, Please click the :star:
-
-List of `awesome README Profile` categories mentioned below xd
+I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
 
 - 🔭 I’m currently working on **Repuestock SAC**
 
